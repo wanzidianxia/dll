@@ -1,0 +1,26 @@
+﻿  fb3-3.lex.c
+d:\cppdll\dll4\dll4\fb3-3.lex.c(9): warning C4603: “FLEX_SCANNER”: 未定义宏或在预编译头使用后定义发生改变
+  d:\cppdll\dll4\dll4\fb3-3.lex.c(9): note: 将宏添加到预编译头中，而不是在此处定义
+  d:\cppdll\dll4\dll4\fb3-3.lex.c(12): note: 使用预编译头
+d:\cppdll\dll4\dll4\fb3-3.lex.c(10): warning C4603: “YY_FLEX_MAJOR_VERSION”: 未定义宏或在预编译头使用后定义发生改变
+  d:\cppdll\dll4\dll4\fb3-3.lex.c(10): note: 将宏添加到预编译头中，而不是在此处定义
+  d:\cppdll\dll4\dll4\fb3-3.lex.c(12): note: 使用预编译头
+d:\cppdll\dll4\dll4\fb3-3.lex.c(11): warning C4603: “YY_FLEX_MINOR_VERSION”: 未定义宏或在预编译头使用后定义发生改变
+  d:\cppdll\dll4\dll4\fb3-3.lex.c(11): note: 将宏添加到预编译头中，而不是在此处定义
+  d:\cppdll\dll4\dll4\fb3-3.lex.c(12): note: 使用预编译头
+fb3-3.l(58): warning C4013: “atoi”未定义；假设外部返回 int
+fb3-3.lex.c(675): warning C4102: “find_rule”: 未引用的标签
+fb3-3.lex.c(1103): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+fb3-3.lex.c(1265): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+fb3-3.lex.c(1648): warning C4013: “exit”未定义；假设外部返回 int
+fb3-3.lex.c(1711): warning C4013: “malloc”未定义；假设外部返回 int
+fb3-3.lex.c(1711): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+fb3-3.lex.c(1729): warning C4013: “realloc”未定义；假设外部返回 int
+fb3-3.lex.c(1729): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+fb3-3.lex.c(1739): warning C4013: “free”未定义；假设外部返回 int
+fb3-3.l(78): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+fb3-3.l(79): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+fb3-3.l(84): warning C4098: “calcpar”:“void”函数返回值
+fb3-3.l(86): warning C4013: “yyparse”未定义；假设外部返回 int
+fb3-3.l(90): warning C4098: “calcpar”:“void”函数返回值
+  Dll4.vcxproj -> D:\cppdll\Dll4\x64\Debug\Dll4.dll

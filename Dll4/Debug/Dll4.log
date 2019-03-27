@@ -1,0 +1,19 @@
+﻿fb3-3.lex.obj : error LNK2019: 无法解析的外部符号 _lookup，该符号在函数 _yylex 中被引用
+fb3-3.lex.obj : error LNK2019: 无法解析的外部符号 _yyerror，该符号在函数 _yylex 中被引用
+fb3-3.tab.obj : error LNK2001: 无法解析的外部符号 _yyerror
+fb3-3.lex.obj : error LNK2001: 无法解析的外部符号 _debug
+fb3-3.tab.obj : error LNK2001: 无法解析的外部符号 _debug
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newsymlist，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newast，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newcmp，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newfunc，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newcall，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newref，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newasgn，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newnum，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _newflow，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _dodef，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _eval，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _treefree，该符号在函数 _yyparse 中被引用
+fb3-3.tab.obj : error LNK2019: 无法解析的外部符号 _dumpast，该符号在函数 _yyparse 中被引用
+D:\cppdll\Dll4\Debug\Dll4.dll : fatal error LNK1120: 16 个无法解析的外部命令
